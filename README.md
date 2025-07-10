@@ -269,7 +269,7 @@ Dibuat grafik:
 
 Gambar berikut menunjukkan **distribusi jumlah siswa berdasarkan kategori nilai akhir** dalam dataset yang digunakan.
 
-![Distribusi Nilai Akhir]([https://ibb.co/v63GdzD0](https://github.com/HilmiIrfani/UAS-MACHINE-LEARNING-2025/blob/97766956831ac0b976e1dd489bfcfaa5a747d029/Screenshot%202025-07-10%20170409.png?raw=true)
+![Distribusi Nilai Akhir](https://github.com/HilmiIrfani/UAS-MACHINE-LEARNING-2025/blob/97766956831ac0b976e1dd489bfcfaa5a747d029/Screenshot%202025-07-10%20170409.png?raw=true)
 
 ---
 
