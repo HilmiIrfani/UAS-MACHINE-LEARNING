@@ -40,6 +40,7 @@ Dataset terdiri dari 395 baris (siswa) dan 33 kolom fitur, termasuk data demogra
 |------|-------|------------|
 | Numerik |Usia, Pendidikan_Ibu, Pendidikan_Ayah, Waktu_Pergi, Waktu_Belajar, Gagal_Pelajaran, Hubungan_Keluarga, Waktu_Luang, Keluar_Teman, Konsumsi_Alkohol_Harian, Konsumsi_Alkohol_Mingguan, Kesehatan, Ketidakhadiran, Nilai_1 (G1), Nilai_2 (G2) | Data numerik dari siswa |
 | Kategorikal | Jenis_Kelamin, Alamat, Ukuran_Keluarga, Status_Ortu,Pekerjaan_Ibu, Pekerjaan_Ayah, Alasan_Memilih_Sekolah, Wali, Dukungan_Sekolah, Dukungan_Keluarga, Kursus_Bayar, Aktivitas_Ekstra, Pernah_Paud, Ingin_Kuliah, Ada_Internet, Hubungan_Romantis| Diubah menggunakan one-hot encoding |
+
 **Numerik**
 - Usia – umur siswa (dalam tahun)
 - Pendidikan_Ibu – tingkat pendidikan ibu (0–4)
