@@ -294,7 +294,7 @@ Distribusi ini memberikan gambaran penting tentang seberapa merata performa sisw
 
 
 
-## 6. 💬 Diskusi Hasil dan Kesimpulan
+## 5. 💬 Diskusi Hasil dan Kesimpulan
 
 ### 🔎 Analisis
 
@@ -310,7 +310,7 @@ Distribusi ini memberikan gambaran penting tentang seberapa merata performa sisw
 
 ---
 
-## 7. 🧪 Implementasi dan Penggunaan
+## 6. 🧪 Implementasi dan Penggunaan
 
 - Aplikasi berbasis **Gradio**: memudahkan user input data dan melihat prediksi langsung
 - Fungsi input manual juga disediakan untuk penggunaan backend atau integrasi API
