@@ -18,16 +18,9 @@ Nilai akhir siswa merupakan salah satu indikator penting dalam menilai performa 
 - Menyediakan antarmuka prediksi berbasis Gradio dan fungsi manual
 
 ### 🔄 Alur Penyelesaian
+![alt text](https://github.com/HilmiIrfani/UAS-MACHINE-LEARNING-2025/blob/3d9413ce890b96f078ff1b1ff91f0077acd894b8/Untitled%20Diagram.drawio.png)
 
-```mermaid
-graph LR
-A[Dataset Siswa] --> B[Preprocessing Data]
-B --> C[Encoding Fitur Kategorikal]
-C --> D[Split Data (Train/Test)]
-D --> E[Model Training (Random Forest, SVM)]
-E --> F[Evaluasi dan Visualisasi]
-F --> G[Implementasi UI Gradio & Manual Input]
-```
+
 
 ---
 
