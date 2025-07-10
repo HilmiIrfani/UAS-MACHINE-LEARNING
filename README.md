@@ -269,7 +269,7 @@ Dibuat grafik:
 
 Gambar berikut menunjukkan **distribusi jumlah siswa berdasarkan kategori nilai akhir** dalam dataset yang digunakan.
 
-![Distribusi Nilai Akhir]()
+![Distribusi Nilai Akhir](https://ibb.co/v63GdzD0)
 
 ---
 
